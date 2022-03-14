@@ -38,6 +38,7 @@ h5,
 h6 {
   /* font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif; */
   font-family: "Poppins", sans-serif;
+  font-size: 1.5rem;
 }
 
 .bg-primary {
@@ -185,7 +186,7 @@ header.masthead hr {
   margin-bottom: 30px;
 }
 header.masthead h1 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 header.masthead p {
   font-weight: 300;
