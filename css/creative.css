@@ -20,11 +20,12 @@ hr.light {
 }
 
 a {
-  color: blue;
+  color: #212529;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
+
 a:hover {
   color: blue;
   text-decoration: none;
@@ -168,7 +169,7 @@ body {
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
     color: blue;
-  }
+  }  
 }
 
 header.masthead {
