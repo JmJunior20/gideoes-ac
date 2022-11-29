@@ -342,10 +342,10 @@ header.masthead p {
   margin-right: 1rem;
 }
 
-.producao a {
-  color: #868e96;
+.rodape a {
+  color: blue;
 }
 
-.producao a:hover {
+.rodape a:hover {
   color: white;
 }
